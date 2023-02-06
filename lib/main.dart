@@ -1,5 +1,5 @@
-import 'package:a_star/pages/desktop_view.dart';
-import 'package:a_star/pages/movile_view.dart';
+import 'package:a_star/pages/screenView/desktop_view.dart';
+import 'package:a_star/pages/screenView/movile_view.dart';
 import 'package:a_star/responsive/responsive_layout.dart';
 import 'package:flutter/material.dart';
 
